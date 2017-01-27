@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.berch-foto.ru$ [NC]
+RewriteRule ^(.*)$ http://berch-foto.ru/$1 [R=301,L]
