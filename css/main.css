@@ -29,7 +29,6 @@ header > div{
 }
 .bg_foto{
 	background: url(../img/main_pic.png);
-	height: 869px;
 }
 #social_network div a{
 	display: block;
@@ -139,7 +138,7 @@ header > div{
 }
 
 #content{
-	padding: 0px 30px;
+	padding: 184px 30px;
 }
 #content img{
 	float: left;
@@ -148,7 +147,6 @@ header > div{
 #content h1{
 	color: #ffffff;
 	text-shadow: 4px 2px 5px black, 0 0 8px black;
-	padding: 205px 10px 0 10px;
 	text-align: center;
 	font-size: 200%;
 }
